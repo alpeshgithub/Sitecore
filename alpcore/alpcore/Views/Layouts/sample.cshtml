@@ -1,6 +1,15 @@
 @using Sitecore.Mvc
 
+<html>
+<head>
+    <title>@Html.Sitecore().Field("title", new { DisableWebEdit = true })</title>
+</head>
+<body>
+    <h1>@Html.Sitecore().Field("title")</h1>
+    <p>Today's Date is: @DateTime.Today.ToShortDateString()</p>
+    @Html.Sitecore().Placeholder("content")
+    <div>
 
-
-<p>Today's Date is: @DateTime.Today.ToShortDateString()</p>
-@Html.Sitecore().Placeholder("content")
+    </div>
+</body>
+</html>

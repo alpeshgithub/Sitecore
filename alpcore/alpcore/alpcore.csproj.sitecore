@@ -2,7 +2,6 @@
   <PropertyGroup>
     <Site Server="alpcore" UserName="sitecore\admin" IsRemoteSitecore="False" />
   </PropertyGroup>
-  <File Include="Views\PageHeader.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0" />
   <File Include="/Views/PageHeader.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
     <Item DatabaseName="master">{ED3F4584-3ECC-48A4-8DA3-902E84C2DAFC}</Item>
   </File>
