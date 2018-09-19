@@ -1,0 +1,23 @@
+﻿body {
+    background-color: #ffffff;
+    font-family: Helvetica;
+}
+
+.wrapper {
+    width: 900px;
+    background-color:#ffffff;
+    margin-left:auto;
+    margin-right:auto;
+}
+.wrapper header{
+    height:100px;
+    background-color:#CCC;
+}
+    .wrapper cotent {
+        height: 200px;
+        background-color: #EEE;
+    }
+    .wrapper footer {
+        height: 50px;
+        background-color: #BBB;
+    }

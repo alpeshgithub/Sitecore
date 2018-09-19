@@ -29,4 +29,13 @@
   <File Include="Views\Layouts\Spotlight.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
     <Item DatabaseName="master">{49DEA038-7910-49CB-8199-177EF1EEBB26}</Item>
   </File>
+  <File Include="Views\Layouts\TestLayout.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{37649DED-6CE4-4613-A942-BDC1B36B569E}</Item>
+  </File>
+  <File Include="/Views/TestLayout.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{37649DED-6CE4-4613-A942-BDC1B36B569E}</Item>
+  </File>
+  <File Include="Views\TestViewRendering.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{AE07DA85-4C4F-4B2C-A5E5-31B1346C3EBF}</Item>
+  </File>
 </Project>
